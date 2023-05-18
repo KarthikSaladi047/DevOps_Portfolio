@@ -39,7 +39,7 @@ body,
 }
 
 .nvabar-custon {
-	background: linear-gradient(120deg, #00e4d0, #5983e8);
+	background: linear-gradient(100deg, #82ff9d, rgb(122, 206, 255));
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -95,7 +95,7 @@ a.navbar_logo_container {
 
 .moving-gradient {
 	color: #fff;
-	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #c623d5, #23d5ab);
 	background-size: 400% 400%;
 	outline: none;
 	border: 2px solid #fff;
